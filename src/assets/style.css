@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+header div{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#desconto{
+    background: #181818;
+    color: #F9F9F9;
+    font-size: 12px;
+}
+#titulo{
+    font-weight: bold;
+    font-size: 16px;
+}
